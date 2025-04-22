@@ -6,7 +6,7 @@
   </a>
 </div><br>
 <div align="center">
-Sou desenvolvedor especializado em RPA (Automação de Processos Robóticos), tenho 24 anos, apaixonado por transformar tarefas repetitivas em soluções inteligentes e eficientes. 
+Sou desenvolvedor especializado em RPA (Automação de Processos Robóticos), tenho 24 anos, aficionado por transformar tarefas repetitivas em soluções inteligentes e eficientes. 
 <br><br>
 Sou graduado em Análise e Desenvolvimento de Sistemas pela FIT - Faculdade Impacta de Tecnologia, e estou sempre em busca de aprender mais, evoluir minhas habilidades e encarar novos desafios na área da tecnologia.
 <br><br>
