@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/vfrancomoreira">
-    <img align="center" src="img/welcome.png" width="500">
+    <img align="center" src="img/welcome.png" width="1000">
   </a>
 </div><br>
 <div align="center">
@@ -68,7 +68,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="30px" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" style="margin: 5px;" />
   <img src="img/aws.png" alt="AWS" title="AWS" width="45px" style="margin: 5px;" />
-  <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" width="40px" style="margin: 0px;" />
+  <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" width="45px" style="margin: 5px;" />
 </div>
 
 <br/>
