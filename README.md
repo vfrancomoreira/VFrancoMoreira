@@ -69,6 +69,8 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" style="margin: 5px;" />
   <img src="img/aws.png" alt="AWS" title="AWS" width="45px" style="margin: 5px;" />
   <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" width="40px" style="margin: 10px;" />
+  <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" width="30px" style="margin: 5px; vertical-align: middle;" />
+
 </div>
 
 <br/>
