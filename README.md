@@ -42,13 +42,10 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/vfrancomoreira?color=3c3c3c&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
-    <a  href = "">
-        <img
-            alt="Localização - São Paulo, SP"
-            title="Localização - São Paulo, SP"
-            src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo--SP-BR-blue?style=for-the-badge&logo=location&logoColor=white
-            "/>
-    </a>
+    <img
+        alt="Localização - São Paulo, SP"
+        title="Localização - São Paulo, SP"
+        src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo--SP-BR-blue?style=for-the-badge&logo=location&logoColor=white"/>
 </div>
 
 ---
