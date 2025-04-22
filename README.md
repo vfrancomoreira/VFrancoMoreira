@@ -42,7 +42,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/vfrancomoreira?color=3c3c3c&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
-    <a  href = "https://www.google.com/maps/place/São+Paulo,+SP">
+    <a  href = "">
         <img
             alt="Localização - São Paulo, SP"
             title="Localização - São Paulo, SP"
