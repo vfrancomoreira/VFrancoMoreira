@@ -70,7 +70,8 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
   <img src="img/aws.png" alt="AWS" title="AWS" width="45px" style="margin: 5px;" />
   <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" height="30px" style="margin: 5px;" />
 </div>
-
+<br/>
+• Entre outras ferramentas com a sintax semelhante, frameworks e bibliotecas.
 <br/>
 
 ### 📊 Estatísticas
