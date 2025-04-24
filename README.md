@@ -5,6 +5,7 @@
     <img align="center" src="img/welcome.png" width="1000">
   </a>
 </div><br>
+</br>
 
 <div align="center">
     <a href="mailto:viniciusfsantosm15@gmail.com">
@@ -21,7 +22,6 @@
     </a>
     <a href="https://instagram.com/vinicius__franco_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
     </a>
-    <br>
     <a href="https://github.com/vfrancomoreira?tab=repositories">
         <img 
         alt = "Meu Repositório"
@@ -39,7 +39,7 @@
         title="Localização - São Paulo, SP"
         src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo--SP-BR-blue?style=for-the-badge&logo=location&logoColor=white"/>
 </div>
-</br>
+<br/>
 
 ```python
 #!/usr/bin/env python
