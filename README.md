@@ -34,7 +34,7 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/vfrancomoreira?color=3c3c3c&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
-    <a href="https://github.com/vfrancomoreira?tab=repositories&sort=stargazers">
+    <a href="https://github.com/vfrancomoreira?tab=repositories&sort=stars">
       <img
         alt="Total de estrelas"
         title="Total stars ojn GitHub"
