@@ -5,13 +5,38 @@
     <img align="center" src="img/welcome.png" width="1000">
   </a>
 </div><br>
-<div align="center">
-Sou desenvolvedor especializado em RPA (Automação de Processos Robóticos), tenho 24 anos, aficionado por transformar tarefas repetitivas em soluções inteligentes e eficientes. 
-<br><br>
-Sou graduado em Análise e Desenvolvimento de Sistemas pela FIT - Faculdade Impacta de Tecnologia, e estou sempre em busca de aprender mais, evoluir minhas habilidades e encarar novos desafios na área da tecnologia.
-<br><br>
-Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. Fique à vontade pra explorar, dar uma olhada no que venho construindo, e se quiser trocar uma ideia, é só chamar!
-</div>
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+class RPAAutomationDev:
+
+    def __init__(self):
+        self.name = "Vinícius"
+        self.age = 24
+        self.specialty = "RPA - Automação de Processos Robóticos"
+        self.education = "Análise e Desenvolvimento de Sistemas - FIT (Faculdade Impacta de Tecnologia)"
+        self.passion = "transformar tarefas repetitivas em soluções inteligentes e eficientes"
+        self.focus = "aprender mais, evoluir minhas habilidades e encarar novos desafios na área da tecnologia"
+
+    def about(self):
+        return (
+            f"Sou desenvolvedor especializado em {self.specialty}, tenho {self.age} anos, "
+            f"aficionado por {self.passion}.\n\n"
+            f"Sou graduado em {self.education}, e estou sempre em busca de {self.focus}.\n\n"
+            "Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. "
+            "Fique à vontade pra explorar!\n"
+            "Obrigado pela visita, espero que ache algum dos meus trabalhos interessantes, "
+            "e se quiser trocar uma ideia, é só chamar!"
+        )
+
+
+if __name__ == "__main__":
+    dev = RPAAutomationDev()
+    print(dev.about())
+```
 <br>
 
 <div align="center">
@@ -49,7 +74,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
 </div>
 
 ---
-### Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div style="display: flex; align-items: center;">
   <img src="img/aa.png" alt="Automation Anywhere" title="Automation Anywhere" width="30px" style="margin: 5px;" />
@@ -74,7 +99,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
 • Entre outras tecnologias, frameworks e bibliotecas.
 <br/>
 
-### Estatísticas
+## Estatísticas
 
 <p>
   <img 
