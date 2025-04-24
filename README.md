@@ -10,7 +10,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 class RPAAutomationDev:
 
     def __init__(self):
