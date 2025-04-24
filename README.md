@@ -108,8 +108,6 @@ if __name__ == "__main__":
 
 **Ferramentas e Serviços:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![VBA](https://img.shields.io/badge/Tools-VBA-informational?style=flat&logo=onlyoffice&logoColor=white&color=6aa6f8)
 ![Power BI](https://img.shields.io/badge/Tools-Power_BI-6aa6f8?style=flat&logo=powerbi&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Tools-Selenium-6aa6f8?style=flat&logo=selenium&logoColor=white)
@@ -119,7 +117,9 @@ if __name__ == "__main__":
 ![Django](https://img.shields.io/badge/Tools-Django-6aa6f8?style=flat&logo=django&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Tools-BeautifulSoup-6aa6f8?style=flat&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Tools-Requests-6aa6f8?style=flat&logo=python&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Tools-Postman-6aa6f8?style=flat&logo=postman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## Estatísticas
 
