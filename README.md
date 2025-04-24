@@ -6,38 +6,6 @@
   </a>
 </div><br>
 
-```python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-class RPAAutomationDev:
-
-    def __init__(self):
-        self.name = "Vinícius"
-        self.age = 24
-        self.specialty = "RPA - Automação de Processos Robóticos"
-        self.education = "Análise e Desenvolvimento de Sistemas - FIT (Faculdade Impacta de Tecnologia)"
-        self.passion = "transformar tarefas repetitivas em soluções inteligentes e eficientes"
-        self.focus = "aprender mais, evoluir minhas habilidades e encarar novos desafios na área da tecnologia"
-
-    def about(self):
-        return (
-            f"Sou desenvolvedor especializado em {self.specialty}, tenho {self.age} anos, "
-            f"aficionado por {self.passion}.\n\n"
-            f"Sou graduado em {self.education}, e estou sempre em busca de {self.focus}.\n\n"
-            "Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. "
-            "Fique à vontade pra explorar!\n"
-            "Obrigado pela visita, espero que ache algum dos meus trabalhos interessantes, "
-            "e se quiser trocar uma ideia, é só chamar!"
-        )
-
-if __name__ == "__main__":
-    dev = RPAAutomationDev()
-    print(dev.about())
-```
-
-<br>
-
 <div align="center">
     <a href="mailto:viniciusfsantosm15@gmail.com">
         <img 
@@ -71,32 +39,60 @@ if __name__ == "__main__":
         title="Localização - São Paulo, SP"
         src="https://custom-icon-badges.demolab.com/badge/S%C3%A3o%20Paulo--SP-BR-blue?style=for-the-badge&logo=location&logoColor=white"/>
 </div>
+</br>
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+class RPAAutomationDev:
+
+    def __init__(self):
+        self.name = "Vinícius"
+        self.age = 24
+        self.specialty = "RPA - Automação de Processos Robóticos"
+        self.education = "Análise e Desenvolvimento de Sistemas - FIT (Faculdade Impacta de Tecnologia)"
+        self.passion = "transformar tarefas repetitivas em soluções inteligentes e eficientes"
+        self.focus = "aprender mais, evoluir minhas habilidades e encarar novos desafios na área da tecnologia"
+
+    def about(self):
+        return (
+            f"Sou desenvolvedor especializado em {self.specialty}, tenho {self.age} anos, "
+            f"aficionado por {self.passion}.\n\n"
+            f"Sou graduado em {self.education}, e estou sempre em busca de {self.focus}.\n\n"
+            "Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. "
+            "Fique à vontade pra explorar!\n"
+            "Obrigado pela visita, espero que ache algum dos meus trabalhos interessantes, "
+            "e se quiser trocar uma ideia, é só chamar!"
+        )
+
+if __name__ == "__main__":
+    dev = RPAAutomationDev()
+    print(dev.about())
+```
+<br>
 
 ---
-## Linguagens e Tecnologias
+## Tecnologias e Ferramentas
 
-<div style="display: flex; align-items: center;">
-  <img src="img/aa.png" alt="Automation Anywhere" title="Automation Anywhere" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="30px" style="margin: 5px;" />
-  <img src="img/ui.png" alt="UiPath" title="UiPath" width="30px" style="margin: 5px;" />
-  <img src="img/mysql.png" alt="MySQL" title="MySQL" width="30px" style="margin: 5px;" />
-  <img src="img/sqlserver.png" alt="SQL Server" title="SQL Server" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="30px" style="margin: 5px;" />
-  <img src="img/c.png" alt="C#" title="C#" width="30px" style="margin: 5px;" />
-  <img src="img/r.png" alt="R" title="Linguagem R" width="30px" style="margin: 5px;" />
-  <img src="img/zapier.png" alt="Zapier" title="Zapier" width="30px" style="margin: 5px;" />
-  <img src="img/vba.png" alt="VBA" title="VBA" width="30px" style="margin: 5px;" />
-  <img src="img/postman.png" alt="Postman" title="Postman" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="30px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" style="margin: 5px;" />
-  <img src="img/aws.png" alt="AWS" title="AWS" width="45px" style="margin: 5px;" />
-  <img src="img/goocloud.png" alt="Google Cloud" title="Google Cloud" height="30px" style="margin: 5px;" />
-</div>
-<br/>
-• Entre outras tecnologias, frameworks e bibliotecas.
-<br/>
+**Linguagens de Programação:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
+**Serviços em Nuvem:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
+![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+
+**Ferramentas e Serviços:**
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## Estatísticas
 
