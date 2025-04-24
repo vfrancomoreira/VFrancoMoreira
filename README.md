@@ -49,7 +49,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
 </div>
 
 ---
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div style="display: flex; align-items: center;">
   <img src="img/aa.png" alt="Automation Anywhere" title="Automation Anywhere" width="30px" style="margin: 5px;" />
@@ -74,7 +74,7 @@ Por aqui, você vai encontrar alguns dos meus projetos, estudos e experimentos. 
 • Entre outras tecnologias, frameworks e bibliotecas.
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
