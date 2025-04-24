@@ -87,7 +87,7 @@ if __name__ == "__main__":
 ![HTML5](https://img.shields.io/badge/Code-HTML5-6aa6f8?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-6aa6f8?style=flat&logo=css3&logoColor=white)
 
-⚠️ Eu sei, html e css não é linguagem de programação, mas só caberia nessa categoria pra ficar legal! :)
+⚠️ Eu sei, html e css não é linguagem de programação, mas só encaixaria nessa categoria pra ficar legal! :)
 
 **Banco de dados:**
 
