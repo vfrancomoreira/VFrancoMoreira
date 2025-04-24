@@ -34,6 +34,13 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/vfrancomoreira?color=3c3c3c&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
+    <a href="https://github.com/vfrancomoreira?tab=repositories&sort=stargazers">
+      <img
+        alt="Total de estrelas"
+        title="Total stars ojn GitHub"
+        src="https://custom-icon-badges.demolab.com/github/stars/vfrancomoreira?color=yellow&style=for-the-badge&labelColor=FFCB3D&logo=star"
+        />
+    </a>
     <img
         alt="Localização - São Paulo, SP"
         title="Localização - São Paulo, SP"
