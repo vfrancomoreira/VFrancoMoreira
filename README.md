@@ -143,9 +143,14 @@ Eu sei, html e css não é linguagem de programação, mas faria mais sentido ne
 
 ## Projetos em Destaque
 
-<a href="https://github.com/vfrancomoreira/chatbot_wpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfrancomoreira&repo=chatbot_wpp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
-<a href="https://github.com/vfrancomoreira/yahooFinances_ColetaDados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfrancomoreira&repo=yahooFinances_ColetaDados&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
+<div>
+  <a href="https://github.com/vfrancomoreira/AutoBacklog-Trello">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfrancomoreira&repo=AutoBacklog-Trello&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+  <a href="https://github.com/vfrancomoreira/yahooFinances_ColetaDados">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfrancomoreira&repo=yahooFinances_ColetaDados&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+  <a href="https://github.com/vfrancomoreira/chatbot_wpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfrancomoreira&repo=chatbot_wpp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  </a>
+</div>
